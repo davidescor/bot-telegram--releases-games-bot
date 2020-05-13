@@ -3,7 +3,7 @@
 
 # @ReleasesGamesBot
 
-Now you will know the next release of the game..<br> Commands <strong>next launch</strong> or <strong>release list</strong>
+Now you will know the next release of the game.<br> Commands <strong>next launch</strong> or <strong>release list</strong>
 
 ## Requirements
 
