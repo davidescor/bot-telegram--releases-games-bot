@@ -51,6 +51,7 @@ Now you will know the next release of the game..<br> Commands <strong>next launc
         
 [Other projects](https://github.com/davidespier?tab=repositories)
 
+[API crackwatch](https://crackwatch.com/api)
 
 
 ## License
