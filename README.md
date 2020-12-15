@@ -1,5 +1,5 @@
 ## Telegram : @ReleasesGamesBot
-![ShowCryptoBot](http://davidespier.com/github/game-bot/games-bot.PNG)
+![ShowCryptoBot](https://i.postimg.cc/1RJTzLfL/games-bot.png)
 
 # @ReleasesGamesBot
 
